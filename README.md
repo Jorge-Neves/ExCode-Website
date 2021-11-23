@@ -18,7 +18,8 @@ React | React-Router-Dom-V6 | JavaScript | HTML | CSS | SASS | Netlify | Styled 
 
 
 # Contacts
-João Prates
+
+## João Prates
 
 email: joaoprates.az@gmail.com
 <br>
@@ -27,7 +28,7 @@ linkedIn: https://www.linkedin.com/in/joao-prates-az/
 github: https://github.com/JayPrates
 
 
-Michael Dixon
+## Michael Dixon
 
 email: michaelmail7@gmail.com
 <br>
@@ -35,7 +36,7 @@ linkedIn: https://www.linkedin.com/in/michael-dixon-404/
 <br>
 github: https://github.com/JayPrates
 
-Paulo Santos
+## Paulo Santos
 
 email: paulo.jorge.ngs@gmail.com
 <br>
@@ -43,7 +44,7 @@ linkedIn: www.linkedin.com/in/paulo-j-santos
 <br>
 github: https://github.com/Jorge-Neves
 
-Zach Dive
+## Zach Dive
 
 email: zjhd201@exeter.ac.uk
 <br>
