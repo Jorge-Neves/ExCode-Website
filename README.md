@@ -4,7 +4,7 @@ A gif of the website's landing page
 
 # Description
 
-A Rebranding of the Exeter's Entrepeneur's Website.
+A Rebranding of the ExCode's Website.
 
 # Live Demo
 
@@ -35,10 +35,10 @@ Paulo Santos
 
 email: paulo.jorge.ngs@gmail.com
 linkedIn: www.linkedin.com/in/paulo-j-santos
-github: github.com/JayPrates
+github: https://github.com/Jorge-Neves
 
 Zach Dive
 
-email: zj
-linkedIn: www.linkedin.com/
-github: github.com/JayPrates
+email: zjhd201@exeter.ac.uk
+linkedIn: linkedin.com/in/zacharydive
+github: https://github.com/zachdive
