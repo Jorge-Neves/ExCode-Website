@@ -24,7 +24,7 @@ email: joaoprates.az@gmail.com
 <br>
 linkedIn: https://www.linkedin.com/in/joao-prates-az/
 <br>
-github: github.com/JayPrates
+github: https://github.com/JayPrates
 
 
 Michael Dixon
@@ -33,7 +33,7 @@ email: michaelmail7@gmail.com
 <br>
 linkedIn: https://www.linkedin.com/in/michael-dixon-404/
 <br>
-github: github.com/JayPrates
+github: https://github.com/JayPrates
 
 Paulo Santos
 
