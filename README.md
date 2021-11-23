@@ -21,24 +21,32 @@ React | React-Router-Dom-V6 | JavaScript | HTML | CSS | SASS | Netlify | Styled 
 João Prates
 
 email: joaoprates.az@gmail.com
+<br>
 linkedIn: https://www.linkedin.com/in/joao-prates-az/
+<br>
 github: github.com/JayPrates
 
 
 Michael Dixon
 
 email: michaelmail7@gmail.com
+<br>
 linkedIn: https://www.linkedin.com/in/michael-dixon-404/
+<br>
 github: github.com/JayPrates
 
 Paulo Santos
 
 email: paulo.jorge.ngs@gmail.com
+<br>
 linkedIn: www.linkedin.com/in/paulo-j-santos
+<br>
 github: https://github.com/Jorge-Neves
 
 Zach Dive
 
 email: zjhd201@exeter.ac.uk
+<br>
 linkedIn: linkedin.com/in/zacharydive
+<br>
 github: https://github.com/zachdive
