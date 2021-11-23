@@ -47,6 +47,6 @@ Zach Dive
 
 email: zjhd201@exeter.ac.uk
 <br>
-linkedIn: linkedin.com/in/zacharydive
+linkedIn: https://linkedin.com/in/zacharydive
 <br>
 github: https://github.com/zachdive
