@@ -1,23 +1,23 @@
-ExCode
+# ExCode
 
 A gif of the website's landing page
 
-#Description
+# Description
 
 A Rebranding of the Exeter's Entrepeneur's Website.
 
-#Live Demo
+# Live Demo
 
 A live version of this repository can be found in the following link:
 
 --- Insert Link ---
 
-#Technologies
+# Technologies
 
 React | React-Router-Dom-V6 | JavaScript | HTML | CSS | SASS | Netlify | Styled Components | Bootstrap |
 
 
-#Contacts
+# Contacts
 João Prates
 
 email:
