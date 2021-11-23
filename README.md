@@ -1,6 +1,8 @@
 # ExCode
 
-A gif of the website's landing page
+<p align="center">
+  <img src="ExCodeDocumentation.gif" alt="A gif of the website's landing page" />
+</p>
 
 # Description
 
